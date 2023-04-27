@@ -20,12 +20,14 @@ body {
 }
 
 h1 {
-    color: rgb(101, 98, 90);
+    color: rgb(66, 119, 43);
     margin-bottom: 20px;
 }
 
 #screen {
-    border: solid 4px #5a5b5a;
+    width: 50rem;
+    height: 40rem;
+    border: solid 4px rgb(66, 119, 43);
     background-color: #FFF;
     cursor: crosshair;
     border-radius: 10px;
@@ -34,14 +36,14 @@ h1 {
 #grid {
     text-align: center;
     font-size: 20px;
-    border: solid 4px #5a5b5a;
+    border: solid 4px rgb(66, 119, 43);
     border-radius: 5px;
-    color: rgb(101, 98, 90);
+    color: rgb(66, 119, 43);
     padding: 4px;
 }
 
 .colorArea {
-    width: 800px;
+    width: 50rem;
     display: flex;
 }
 
