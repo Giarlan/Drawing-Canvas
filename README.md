@@ -29,7 +29,7 @@
 >
 >   ![Imagem1](https://user-images.githubusercontent.com/108962578/232353877-d3f14d59-7605-4d3f-9822-d5762758a31f.png)
 
-> ## Autor
+> ## Author
 > ---
 > <a href="https://www.instagram.com/santana.fsd/">
 > <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/108962578/231322748-dab2928a-a426-453c-9f2a-23d6b6bc104d.png" width="100px;" alt=""/></a>
