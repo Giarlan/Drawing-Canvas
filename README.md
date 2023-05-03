@@ -9,10 +9,11 @@
 
 > ### Features
 > - [X] Drawing board
+> - [X] Color pallete
 > - [X] Clear button
 
 > ### Home Page
->   ![Capturar](https://user-images.githubusercontent.com/108962578/234691892-9be79a0c-052b-44fe-8867-397d3862cb77.PNG)
+>   ![Capturar](https://user-images.githubusercontent.com/108962578/235799977-31d91b83-2a62-4e14-9deb-57981d9b6540.PNG)
 
 > ### Prerequisites to run it
 >     You only need a browser to click on the following link and run the application.
